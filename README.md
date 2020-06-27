@@ -1,24 +1,3 @@
 # tagbag
 
-## Project setup
-```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+This is a simple project done in a day as part of me learning Vue. The desired functionality was simple - saving and categorizing hashtags, and being able to pick out a selection and copy it to the clipboard.
