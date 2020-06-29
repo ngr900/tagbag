@@ -30,6 +30,7 @@ function parseTags(text) {
     const splitTag = tag.split('');
     return splitTag.filter(char => char !== '#').join('');
   })
+  .filter(tag => tag !== '')
 }
 
 
